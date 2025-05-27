@@ -1,4 +1,4 @@
-# OLA Driver Attrition Analysis 🚗
+# OLA Driver Attrition Analysis
 
 ## Problem Statement
 Recruiting and retaining drivers is a critical challenge for Ola. High driver churn impacts organizational morale and makes acquisition more expensive than retention. This analysis predicts driver attrition using ensemble learning to provide actionable retention strategies.
